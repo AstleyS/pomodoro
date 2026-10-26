@@ -1,0 +1,1 @@
+"""Desktop Pomodoro timer application."""
